@@ -1,0 +1,25 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "How agent-readiness changes web architecture",
+  "url": "https://acme.example.com/blog/agent-readiness",
+  "datePublished": "2026-06-01",
+  "dateModified": "2026-06-18",
+  "author": {
+    "@type": "Person",
+    "name": "Jordan Rivera",
+    "url": "https://acme.example.com/team/jordan-rivera",
+    "sameAs": [
+      "https://www.linkedin.com/in/jordanrivera",
+      "https://github.com/jordanrivera"
+    ]
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Acme",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://acme.example.com/img/logo.png"
+    }
+  }
+}

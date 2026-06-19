@@ -1,0 +1,19 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "name": "Widget Repair",
+  "description": "Mail-in repair service for Acme widgets, with a 5-day turnaround.",
+  "url": "https://acme.example.com/services/repair",
+  "provider": {
+    "@type": "Organization",
+    "name": "Acme",
+    "url": "https://acme.example.com"
+  },
+  "areaServed": { "@type": "Country", "name": "AT" },
+  "offers": {
+    "@type": "Offer",
+    "price": "29.00",
+    "priceCurrency": "EUR",
+    "url": "https://acme.example.com/services/repair"
+  }
+}
