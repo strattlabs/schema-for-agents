@@ -1,5 +1,7 @@
 # schema-for-agents
 
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) · [strattlabs.com](https://strattlabs.com)
+
 A copy-paste **cookbook of JSON-LD recipes** that make commerce and content sites
 legible and citable to AI agents and answer engines — plus (planned) a small
 validator that flags the omissions that most often break structured data.
@@ -81,3 +83,16 @@ then, the recipes stand alone.
 ## License
 
 [MIT](LICENSE) © 2026 Stratt Labs. The recipes are meant to be copied freely.
+
+---
+
+## Part of the Stratt Labs toolkit for the agentic web
+
+Small, standards-friendly tools from [Stratt Labs](https://strattlabs.com):
+
+- [agent-readiness-manifest](https://github.com/strattlabs/agent-readiness-manifest)
+  — an open declaration spec for agent discovery.
+- [llms-txt-kit](https://github.com/strattlabs/llms-txt-kit) — generate and
+  validate `llms.txt` / `llms-full.txt` files.
+- [webmcp-starter](https://github.com/strattlabs/webmcp-starter) — a minimal
+  WebMCP reference page.
